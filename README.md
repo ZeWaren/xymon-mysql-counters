@@ -79,7 +79,7 @@ Sample graphs:
 Credits:
 --------
 
-xymon-mysq-counters was written in October 2012 by: ZeWaren / Erwan Martin <public@fzwte.net>.
+xymon-mysq-counters was written in October 2012 by: ZeWaren / Erwan Martin <<public@fzwte.net>>.
 
 It is licensed under the MIT License.
 
