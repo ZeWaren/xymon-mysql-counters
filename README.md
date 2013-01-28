@@ -43,7 +43,7 @@ or in `clientlaunch.cfg` (Xymon)
 [mysql]
     ENVFILE $XYMONCLIENTHOME/etc/xymonclient.cfg
     CMD $XYMONCLIENTHOME/ext/xymon_mysql_counters.pl
-    LOGFILE /var/log/xymon/xymon-mysql.log
+    LOGFILE $XYMONCLIENTLOGS/xymon-mysql.log
     INTERVAL 2m
 ```
 
